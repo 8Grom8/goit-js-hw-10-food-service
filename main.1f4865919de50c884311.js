@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{G2cz:function(n,o){},L1EO:function(n,o,c){},QfWi:function(n,o,c){"use strict";c.r(o);c("L1EO");var i=c("G2cz");i.printText("JS"),console.log(i.text)}},[["QfWi",1]]]);
+//# sourceMappingURL=main.1f4865919de50c884311.js.map
